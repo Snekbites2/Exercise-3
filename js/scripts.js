@@ -16,7 +16,7 @@ dialogue[i++]= "I'm hotdog";
 dialogue[i++]= "Dinner pls";
 dialogue[i++]= "I want treats";
 dialogue[i++]= "Woop";
-
+dialogue[i++]= "I like Hot Dogs";
 
 
 $("#target").on("click", function() {
